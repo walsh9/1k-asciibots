@@ -29,10 +29,10 @@ In the spirit of '1,000', these 1,000 bytes of javascript will randomly assemble
 The code comes in two flavors.
 
 `  q-mrf.html` - The *Quantum* Mini Robot Factory randomly generates a single robot.  
-(**Demo**)[https://cdn.rawgit.com/walsh9/1k-ASCII-Robots/24c362b9c767ae35beddd1a9686cc30113d5cd3d/q-mrf.html]  
+[**Demo**](https://cdn.rawgit.com/walsh9/1k-ASCII-Robots/24c362b9c767ae35beddd1a9686cc30113d5cd3d/q-mrf.html)  
 
 ` al-mrf.html` - The *Assembly Line* Mini Robot Factory outputs all 1,000 possible combinations of robots.  
-(**Demo**)[https://cdn.rawgit.com/walsh9/1k-ASCII-Robots/24c362b9c767ae35beddd1a9686cc30113d5cd3d/al-mrf.html]
+[**Demo**](https://cdn.rawgit.com/walsh9/1k-ASCII-Robots/24c362b9c767ae35beddd1a9686cc30113d5cd3d/al-mrf.html)
 
 
 ## License
