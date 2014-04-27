@@ -28,7 +28,7 @@ In the spirit of '1,000' these 1,000 bytes of javascript randomly assemble 1,000
 
 The code comes in two flavors.
 
-`  q-mrf.html` - The *Quantum* Mini Robot Factory randomly generates a single robot.
+`  q-mrf.html` - The *Quantum* Mini Robot Factory randomly generates a single robot.  
 ` al-mrf.html` - The *Assembly Line* Mini Robot Factory outputs all 1,000 possible combinations of robots.
 
 ## License
