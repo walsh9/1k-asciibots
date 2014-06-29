@@ -1,5 +1,7 @@
 # 1k ASCII Mini Robot Factory
 
+**Note: This code was written for a 1K contest and is pretty unreadable. For a non-obfuscated version with more features see [this repository](https://github.com/walsh9/ASCII-Robots)**
+
 The blog, [Boing Boing](http://boingboing.net/), used to run a spinoff technology site called Boing Boing Gadgets. In 2008, they ran a 1k code contest with the following preface.
 
 > 1 kilobyte. 1 kibibyte. 1 kilobit. 1,000 ASCII characters. Source code, file size, tile size, the number of letters in a short story: you decide. Use your imagination. Give us a thousand of whatever you want. A 1,000 byte JPG, MP3 or textfile. Need a little extra? 1,024 will do, we’re not religious. We’re cool. Just make it 1K of awesome, k?
