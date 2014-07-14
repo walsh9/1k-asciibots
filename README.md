@@ -1,6 +1,6 @@
 # 1k ASCII Mini Robot Factory
 
-**Note: This code was written for a 1K contest and is pretty unreadable. For a non-obfuscated version with more features see [this repository](https://github.com/walsh9/ASCII-Robots)**
+**Note: This code was written for a 1K contest and is pretty unreadable. For a non-obfuscated version with more features see [this repository](https://github.com/walsh9/asciibots)**
 
 The blog, [Boing Boing](http://boingboing.net/), used to run a spinoff technology site called Boing Boing Gadgets. In 2008, they ran a 1k code contest with the following preface.
 
@@ -31,10 +31,10 @@ In the spirit of '1,000', these 1,000 bytes of javascript will randomly assemble
 The code comes in two flavors.
 
 `  q-mrf.html` - The *Quantum* Mini Robot Factory randomly generates a single robot.  
-[**Demo**](https://cdn.rawgit.com/walsh9/1k-ASCII-Robots/24c362b9c767ae35beddd1a9686cc30113d5cd3d/q-mrf.html)  
+[**Demo**](https://cdn.rawgit.com/walsh9/1k-asciibots/24c362b9c767ae35beddd1a9686cc30113d5cd3d/q-mrf.html)  
 
 ` al-mrf.html` - The *Assembly Line* Mini Robot Factory outputs all 1,000 possible combinations of robots.  
-[**Demo**](https://cdn.rawgit.com/walsh9/1k-ASCII-Robots/24c362b9c767ae35beddd1a9686cc30113d5cd3d/al-mrf.html)
+[**Demo**](https://cdn.rawgit.com/walsh9/1k-asciibots/24c362b9c767ae35beddd1a9686cc30113d5cd3d/al-mrf.html)
 
 
 ## License
